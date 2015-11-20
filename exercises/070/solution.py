@@ -1,4 +1,4 @@
-banane = "abcdefghisjklmnopqrstuvxyz"
+banane = "abcdefghijklmnopqrstuvwxyz"
 
 for i in banane:
     for j in banane:
