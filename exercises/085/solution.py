@@ -9,6 +9,8 @@ def sort_by_mark(my_class):
 
 
 import operator
+
+
 def sort_by_name(my_class):
     for i in my_class:
         return sorted(my_class, key=operator.itemgetter(1))
