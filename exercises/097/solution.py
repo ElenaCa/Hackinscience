@@ -1,4 +1,6 @@
 banane = []
+
+
 def love_meet(bob, alice):
     for i in alice:
         for j in bob:
@@ -6,6 +8,7 @@ def love_meet(bob, alice):
                 if i not in banane:
                     banane.append(i)
     return banane
+
 
 def affair_meet(bob, alice, silvester):
     for i in alice:
